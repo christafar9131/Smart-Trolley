@@ -4,10 +4,10 @@ autonomous trolley bag using facial recognition
 
 Personal Details
 
-Kundan Pandey (0902CS211029)
+Christafar Shibu(0902CS211017)
 Tekanpur, Gwalior
-9470627763
-kundanpandey699@gmail.com
+8821938129
+christafar03@gmail.com
 
 
 
